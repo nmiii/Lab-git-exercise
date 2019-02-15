@@ -1,2 +1,2 @@
 # Lab-git-exercise
-Lab exercise
+A practice repo to learning version control
